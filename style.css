@@ -1,0 +1,23 @@
+body{
+    font-size: 0.8em;
+    width: 90%;
+    margin: 10em auto;
+    background-color: hsl(212, 23%, 69%)
+}
+#link{
+    position: relative;
+}
+#share{
+    position: absolute;
+    top: 78%;
+    right: 0;
+    margin-left: 20em;
+    display:none;
+
+}
+@media screen and (min-width: 1440px) {
+  #link{
+    position: absolute;
+    top:70%;
+  }
+  }
