@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [./](https://myFirstFrontendChallenge.com.)
-- Live Site URL: [Add live site URL here](https://myFirstFrontendChallenge.com.)
+- Solution URL: [https://my-firstfrontendchallengecom.vercel.app/]
+- Live Site URL: [https://my-firstfrontendchallengecom.vercel.app/]
 
 ## My process
 
