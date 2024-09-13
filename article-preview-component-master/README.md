@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [./](https://your-solution-url.com)
+- Solution URL: [./](https://furniture-site.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -55,6 +55,6 @@ I know a lot of javascript terms but not fully understood. I want to enforce jav
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Add your name here](https://www.furniture-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/chimeziedaniel)
 - Twitter - [@yourusername](https://www.twitter.com/Dan_Chimezie)
