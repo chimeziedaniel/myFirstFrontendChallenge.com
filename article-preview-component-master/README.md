@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [./](https://furniture-site.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [./](https://myFirstFrontendChallenge.com.)
+- Live Site URL: [Add live site URL here](https://myFirstFrontendChallenge.com.)
 
 ## My process
 
