@@ -26,10 +26,10 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop mode active](<../desktop active mode.png>)
-![Desktop mode](<../desktop mode.png>)
-![Mobile mode active](<../mobile active mode.png>)
-![Mobile mode](<../mobile mode.png>)
+![Desktop mode active](<./desktop active mode.png>)
+![Desktop mode](<./desktop mode.png>)
+![Mobile mode active](<./mobile active mode.png>)
+![Mobile mode](<./mobile mode.png>)
 
 ### Links
 
